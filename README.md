@@ -1,3 +1,10 @@
+## 周报目录
+
+- 技术文章
+- 开源项目
+- 工具
+- 其他文章
+
 ## [2020.1.13](https://github.com/guogailee/java-weekly/blob/master/2020.1.13.md)
 
 - 我是怎样帮一个招聘网站迁移到 Serverless 的？
